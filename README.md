@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This readme has yet to be completed. But for now, feel free to check out my professional website, [Processing Stochasticites](https://www.processingstochasticities.com/), or my personal website [Taky Nevinnej](https://kind-curie-8e7995.netlify.app/). Both are very early in development and low on uploaded content, so bear with me.
+
 <!--
 **JoshuaPurtell/JoshuaPurtell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
