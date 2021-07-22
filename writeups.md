@@ -9,4 +9,4 @@ rss = "A short description of the page which would serve as **blurb** in a `RSS`
 
 # Paper Write-ups
 
-[`June 26, 2021`](/pages/page1/)
+[`July 26, 2021`](/pages/weekly/july26/)

@@ -14,26 +14,38 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://joshuapurtell.netlify.app/pages/page1/index.html</loc>
-    <lastmod>2021-06-19</lastmod>
+    <loc>https://joshuapurtell.netlify.app/pages/weekly/july26/index.html</loc>
+    <lastmod>2021-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://joshuapurtell.netlify.app/writeups/index.html</loc>
-    <lastmod>2021-06-19</lastmod>
+    <lastmod>2021-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://joshuapurtell.netlify.app/pages/papers/EGT/NishiShiradoChristakis/index.html</loc>
+    <lastmod>2021-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://joshuapurtell.netlify.app/pages/papers/EGT/RandArbesmanChristakis/index.html</loc>
+    <lastmod>2021-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://joshuapurtell.netlify.app/about/index.html</loc>
-    <lastmod>2021-06-19</lastmod>
+    <lastmod>2021-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://joshuapurtell.netlify.app/menu3/index.html</loc>
-    <lastmod>2021-06-19</lastmod>
+    <lastmod>2021-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>

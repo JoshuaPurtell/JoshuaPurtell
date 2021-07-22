@@ -11,16 +11,6 @@ rss = "A short description of the page which would serve as **blurb** in a `RSS`
 # What I do
 
 # What (else) I do
-* indirect references for instance [like so]
 
-[like so]: http://existentialcomics.com/
-
-or also for images
-
-![][some image]
-
-some people find that useful as it allows referring multiple times to the same link for instance.
-
-[some image]: https://upload.wikimedia.org/wikipedia/commons/9/90/Krul.svg
 
 # 
