@@ -15,7 +15,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Processing Stochasticies"
 website_descr = "Hledej, prav, sliš, uč se, miluj, braň"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
+website_url   = "https://joshuapurtell.netlify.app"
 +++
 
 <!--
