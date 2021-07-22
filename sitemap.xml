@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://joshuapurtell.netlify.app/about/index.html</loc>
-    <lastmod>2021-07-22</lastmod>
+    <loc>https://joshuapurtell.netlify.app/404/index.html</loc>
+    <lastmod>2021-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
@@ -15,25 +15,25 @@
 </url>
 <url>
     <loc>https://joshuapurtell.netlify.app/pages/page1/index.html</loc>
-    <lastmod>2021-07-22</lastmod>
+    <lastmod>2021-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://joshuapurtell.netlify.app/writeups/index.html</loc>
-    <lastmod>2021-07-22</lastmod>
+    <lastmod>2021-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://joshuapurtell.netlify.app/404/index.html</loc>
-    <lastmod>2021-07-22</lastmod>
+    <loc>https://joshuapurtell.netlify.app/about/index.html</loc>
+    <lastmod>2021-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://joshuapurtell.netlify.app/menu3/index.html</loc>
-    <lastmod>2021-07-22</lastmod>
+    <lastmod>2021-06-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
